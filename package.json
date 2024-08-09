@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "chai": "^5.1.1",
-    "mocha": "^10.7.0"
+    "mocha": "^10.7.0",
+    "react-bootstrap": "^2.10.4"
   }
 }
